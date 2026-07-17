@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lzyfrank.github.io/aflchacoli/sitemap.xml
